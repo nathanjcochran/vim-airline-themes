@@ -87,7 +87,7 @@ function! airline#themes#solarized#refresh()
   let s:IM = s:NM
 
   " Visual mode
-  let s:V1 = [s:N1[0], s:magenta, 'bold']
+  let s:V1 = [s:N1[0], s:green, 'bold']
   let s:V2 = s:N2
   let s:V3 = s:N3
   let s:VF = s:NF
